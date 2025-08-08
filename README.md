@@ -26,5 +26,6 @@ Self-hosted developer workspace combining:
 - This is intended as a developer-friendly, open-source starter — customize and push to GitHub!
 - For production-hardening, add auth, HTTPS, containerized sandboxes for terminals, and strict path ACLs.
 -There are some bugs in the terminal, later we will upgrade this project to v.1.1
-##Devs
+
+## Devs
 -AgentArk5/Creeperkid2014, The co CEO of thundered studios: https://discord.gg/4fNnMamM. And The Founder of LocalForge.
